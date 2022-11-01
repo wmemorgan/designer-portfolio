@@ -18,7 +18,7 @@
   "homepage": "https://github.com/wmemorgan/designer-portfolio#readme",
   "dependencies": {
     "browser-sync": "^2.24.4",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-sass": "^4.0.1",
     "hoek": "^5.0.3"
   }
